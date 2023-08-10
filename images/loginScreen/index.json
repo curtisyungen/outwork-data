@@ -1,3 +1,15 @@
 {
-    "images": ["barrels", "brooklyn", "ceiling", "flags", "one_world", "times"]
+    "images": [
+        "barrels",
+        "bridge",
+        "brooklyn",
+        "ceiling",
+        "empire",
+        "flags",
+        "one_world",
+        "park",
+        "taxi",
+        "times",
+        "tudor"
+    ]
 }
