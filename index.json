@@ -1,6 +1,7 @@
 {
     "audios": "/audios",
     "avatars": "/images/avatars",
+    "loginImages": "/images/loginScreen",
     "jingles": "/audios/jingles",
     "images": "/images",
     "reactions": "/reactions",
